@@ -1,0 +1,1 @@
+Hello, I am Calista Kirchhof, a ME/ECE student at the University of Oklahoma who is learning programming skills. This project is a part of the Odin Project cirriculum to learn HTML, CSS, and JavaScript for web development. Once this portion of the project is complete, I will have basic HTML and command line skills.
